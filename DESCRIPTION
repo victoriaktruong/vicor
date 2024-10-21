@@ -1,11 +1,11 @@
 Package: vicor
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Odds Ratios and Confidence Intervals Calculation
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Victoria Truong
+Maintainer: Victoria Truong <victoria.truong@mail.utoronto.ca>
+Description: The 'vicor' package provides a function to calculate the odds ratios
+    (OR) and 95% confidence intervals. This package also includes an example dataset (toydata)
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
